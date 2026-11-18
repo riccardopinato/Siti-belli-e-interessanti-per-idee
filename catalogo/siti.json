@@ -248,6 +248,53 @@
         "https://github.com/nagavineerpasam/netmeter"
       ],
       "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-007",
+      "name": "Patch · Discover",
+      "url": "https://patch.gg/discover",
+      "canonical_domain": "patch.gg",
+      "description": "Catalogo di giochi e mod da giocare, esplorare e remixare; piattaforma Patch per game development, asset e agenti con CLI/MCP.",
+      "primary_category": "game-development",
+      "secondary_categories": [
+        "game-asset-libraries",
+        "product-inspiration",
+        "development-tools",
+        "ai-creativity"
+      ],
+      "tags": [
+        "games",
+        "mods",
+        "remix",
+        "game-assets",
+        "3d",
+        "textures",
+        "sounds",
+        "cli",
+        "mcp",
+        "coding-agents",
+        "browser-games"
+      ],
+      "applications": [
+        "Deskland (riferimenti gameplay / asset)",
+        "App Factory Agent (studio toolchain CLI/MCP)",
+        "Prototipi ludici e interattivi",
+        "Design-App (riferimenti visuali selezionati)"
+      ],
+      "utility": "Studio di giochi, meccaniche, asset e workflow assistito da agenti; verificare licenza di ogni singolo asset/repo e limiti della Patch License prima di usi off-platform.",
+      "status": "archiviato-verificato",
+      "verification_note": "Sito ufficiale e pagina Discover indicizzati il 18/11/2026; non collaudata installazione Windows né la riproduzione dei giochi. La presenza in Discover non dimostra licenza OSS off-platform.",
+      "license_note": "Termini Patch aggiornati 16/11/2026: la licenza Patch predefinita consente remix su Patch ma limita l'esportazione di lavori altrui fuori piattaforma senza consenso del creatore. Licenza degli asset individuali da controllare.",
+      "preview": "anteprime/SITE-007-patch-discover.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-007-patch-discover.md",
+      "sources": [
+        "https://patch.gg/discover",
+        "https://patch.gg/",
+        "https://patch.gg/terms",
+        "https://patch.gg/privacy"
+      ],
+      "last_checked": "2026-11-18"
     }
   ]
 }

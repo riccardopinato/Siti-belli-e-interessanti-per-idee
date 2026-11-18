@@ -8,6 +8,8 @@ Questo repository consente **più categorie per sito**: una categoria principale
 | `github-profiles` | Profilo GitHub di uno sviluppatore: fonte dinamica, non un singolo repository o licenza |
 | `design-ui-ux` | Interfacce, interaction design, pattern, tipografia, identità visiva |
 | `ui-component-libraries` | Collezioni di componenti, snippet e micro-interazioni con esempi riusabili o adattabili |
+| `game-development` | Piattaforme per sviluppare, pubblicare, giocare o remixare videogiochi e mod |
+| `game-asset-libraries` | Cataloghi di asset grafici, audio, 3D e risorse per la produzione di giochi |
 | `motion-storytelling` | Transizioni, animazioni, scrollytelling, narrazione visuale |
 | `ai-creativity` | Uso creativo, progettazione o riflessione sull'intelligenza artificiale |
 | `development-tools` | Strumenti, framework, SDK, supporto allo sviluppo e automazione |
