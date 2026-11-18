@@ -4,24 +4,26 @@ Questo repository consente **più categorie per sito**: una categoria principale
 
 | Categoria | Quando usarla |
 |---|---|
-| \`open-source-discovery\` | Directory OSS, cataloghi GitHub, raccolte di librerie, progetti e API |
-| \`design-ui-ux\` | Interfacce, interaction design, pattern, tipografia, identità visiva |
-| \`motion-storytelling\` | Transizioni, animazioni, scrollytelling, narrazione visuale |
-| \`ai-creativity\` | Uso creativo, progettazione o riflessione sull'intelligenza artificiale |
-| \`development-tools\` | Strumenti, framework, SDK, supporto allo sviluppo e automazione |
-| \`product-inspiration\` | Problemi, flussi, idee di prodotti o modelli di esperienza |
-| \`learning-resources\` | Guide, documentazione, articoli formativi, corsi |
-| \`research-data\` | Dataset, statistiche, motori di ricerca e analisi |
-| \`business-growth\` | SEO, distribuzione, marketing, monetizzazione |
-| \`other\` | Nuova tipologia non ancora in tassonomia: descrivere il motivo |
+| `open-source-discovery` | Directory OSS, cataloghi GitHub, raccolte di librerie, progetti e API |
+| `github-profiles` | Profilo GitHub di uno sviluppatore: fonte dinamica, non un singolo repository o licenza |
+| `design-ui-ux` | Interfacce, interaction design, pattern, tipografia, identità visiva |
+| `ui-component-libraries` | Collezioni di componenti, snippet e micro-interazioni con esempi riusabili o adattabili |
+| `motion-storytelling` | Transizioni, animazioni, scrollytelling, narrazione visuale |
+| `ai-creativity` | Uso creativo, progettazione o riflessione sull'intelligenza artificiale |
+| `development-tools` | Strumenti, framework, SDK, supporto allo sviluppo e automazione |
+| `product-inspiration` | Problemi, flussi, idee di prodotti o modelli di esperienza |
+| `learning-resources` | Guide, documentazione, articoli formativi, corsi |
+| `research-data` | Dataset, statistiche, motori di ricerca e analisi |
+| `business-growth` | SEO, distribuzione, marketing, monetizzazione |
+| `other` | Nuova tipologia non ancora in tassonomia: descrivere il motivo |
 
 ## Come registrare un link futuro
 
-1. Normalizzare l'URL (host, \`https\`, slash finale) ed evitare duplicati o versioni con parametri di tracciamento.
+1. Normalizzare l'URL (host, `https`, slash finale) ed evitare duplicati o versioni con parametri di tracciamento.
 2. Aprire il sito originale; se inaccessibile, annotare chiaramente **cosa è verificato e cosa no**.
-3. Assegnare un ID stabile \`SITE-000\`, titolo, breve descrizione, categoria principale, categorie secondarie e tag.
+3. Assegnare un ID stabile `SITE-000`, titolo, breve descrizione, categoria principale, categorie secondarie e tag.
 4. Registrare **perché è interessante per App Factory** e a quali app/repository potrebbe servire; distinguere fatti osservati da ipotesi.
-5. Creare o aggiornare una scheda in \`schede/\`, aggiungere la riga all'indice e aggiornare \`catalogo/siti.json\`.
+5. Creare o aggiornare una scheda in `schede/`, aggiungere la riga all'indice e aggiornare `catalogo/siti.json`.
 6. Le immagini nel repository devono essere originali oppure avere permessi/licenza compatibili. Se manca una verifica dei diritti, utilizzare **copertine originali** o un semplice link al sito esterno; non copiare screenshot/asset alla cieca.
 7. Aprire PR, verificare URL, JSON, file referenziati e differenze rispetto all'indice; registrare l'esito reale.
 
@@ -32,7 +34,11 @@ Questo repository consente **più categorie per sito**: una categoria principale
 - **da-rivedere**: sito cambiato, link incerto, informazioni non confermate.
 - **non-disponibile**: link non più raggiungibile, mantenuto per ragioni storiche.
 
-Questi stati non equivalgono a \`IMPLEMENTED\`, \`TESTED\`, \`CERTIFIED DONOR\` o \`GOLDEN\`.
+Quando il catalogo completo richiede autenticazione o non è interamente consultabile, indicare **archiviato-parziale** e precisare cosa è verificato.
+
+I profili GitHub devono restare schede aggregate con **snapshot datato dei repo rilevanti**, evitando di considerare ogni progetto un donor certificato. Ogni repository ha licenza e manutenzione proprie.
+
+Questi stati non equivalgono a `IMPLEMENTED`, `TESTED`, `CERTIFIED DONOR` o `GOLDEN`.
 
 ## Relazioni e priorità
 

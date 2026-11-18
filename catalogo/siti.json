@@ -81,6 +81,173 @@
         "https://news.ycombinator.com/item?id=50537962"
       ],
       "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-003",
+      "name": "Mobbin · iOS Popular",
+      "url": "https://mobbin.com/discover/apps/ios/popular",
+      "canonical_domain": "mobbin.com",
+      "description": "Catalogo di schermate e flussi UX di app reali; collegamento alla sezione iOS Popular.",
+      "primary_category": "design-ui-ux",
+      "secondary_categories": [
+        "product-inspiration",
+        "learning-resources"
+      ],
+      "tags": [
+        "ios",
+        "app-screens",
+        "ux-flows",
+        "onboarding",
+        "design-research"
+      ],
+      "applications": [
+        "Design-App (fonti da curare)",
+        "Anna's Diary",
+        "Notes-Ecosistema",
+        "Android Omni Cleaner",
+        "Wonderlog"
+      ],
+      "utility": "Benchmark UX su schermate e flussi reali; non prelevare direttamente codice o asset dalle schermate.",
+      "status": "archiviato-parziale",
+      "verification_note": "La pagina specifica non esponeva il catalogo completo al browser senza sessione; servizio e caratteristiche verificati tramite fonti ufficiali.",
+      "preview": "anteprime/SITE-003-mobbin.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-003-mobbin.md",
+      "sources": [
+        "https://mobbin.com/discover/apps/ios/popular",
+        "https://mobbin.com/",
+        "https://mobbin.com/blog/mobbin-vs-page-flows"
+      ],
+      "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-004",
+      "name": "Shuffle",
+      "url": "https://shuffle.dev/",
+      "canonical_domain": "shuffle.dev",
+      "description": "Editor visuale e raccolta di UI kit responsive per siti, dashboard e landing, con esportazione del codice Web.",
+      "primary_category": "development-tools",
+      "secondary_categories": [
+        "design-ui-ux",
+        "ui-component-libraries",
+        "product-inspiration"
+      ],
+      "tags": [
+        "visual-editor",
+        "responsive",
+        "tailwind",
+        "bootstrap",
+        "bulma",
+        "react",
+        "dashboard",
+        "landing"
+      ],
+      "applications": [
+        "App Factory dashboard",
+        "Web Utility",
+        "Notes-Ecosistema Web",
+        "Design-App (riferimenti)"
+      ],
+      "utility": "Prototipare o implementare layout Web; per Flutter riadattare il design e verificare condizioni di licenza/esportazione.",
+      "status": "archiviato-verificato",
+      "preview": "anteprime/SITE-004-shuffle.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-004-shuffle.md",
+      "sources": [
+        "https://shuffle.dev/",
+        "https://shuffle.dev/docs/editor",
+        "https://shuffle.dev/components"
+      ],
+      "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-005",
+      "name": "Uiverse",
+      "url": "https://uiverse.io/",
+      "canonical_domain": "uiverse.io",
+      "description": "Collezione community di UI elements con codice CSS/Tailwind/React e design Figma, licenza MIT dichiarata.",
+      "primary_category": "ui-component-libraries",
+      "secondary_categories": [
+        "design-ui-ux",
+        "development-tools",
+        "motion-storytelling"
+      ],
+      "tags": [
+        "ui-components",
+        "css",
+        "tailwind",
+        "react",
+        "buttons",
+        "loaders",
+        "microinteractions",
+        "mit"
+      ],
+      "applications": [
+        "Design-App (componenti selezionati)",
+        "Web Utility",
+        "Android Omni Cleaner",
+        "Battery Guard",
+        "Anna's Diary"
+      ],
+      "utility": "Selezione di componenti visivi riusabili o adattabili; richiede verifica singolo snippet, accessibilità e prestazioni.",
+      "status": "archiviato-verificato",
+      "license_note": "Il sito dichiara MIT per gli elementi UI; verificare singoli asset e attribuzioni prima di importare.",
+      "preview": "anteprime/SITE-005-uiverse.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-005-uiverse.md",
+      "sources": [
+        "https://uiverse.io/",
+        "https://github.com/uiverse-io/galaxy"
+      ],
+      "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-006",
+      "name": "nagavineerpasam · GitHub",
+      "url": "https://github.com/nagavineerpasam?tab=repositories",
+      "canonical_domain": "github.com",
+      "description": "Profilo GitHub con progetti OSS per studio systems-to-AI, coach linguistico locale, VS Code history e agent monitoring.",
+      "primary_category": "github-profiles",
+      "secondary_categories": [
+        "open-source-discovery",
+        "development-tools",
+        "learning-resources",
+        "product-inspiration"
+      ],
+      "tags": [
+        "github-profile",
+        "developer-tools",
+        "local-ai",
+        "learning",
+        "vscode",
+        "monitoring"
+      ],
+      "applications": [
+        "App Factory Agent",
+        "Notes-Ecosistema",
+        "AppLab",
+        "App Factory engineering"
+      ],
+      "utility": "Scoprire idee e repository individuali per formazione, AI locale e osservabilità; non è un donor unitario.",
+      "status": "archiviato-verificato",
+      "verification_note": "12 repository pubblicamente enumerati al 18/11/2026; i singoli codici non sono stati oggetto di audit approfondito.",
+      "spotlight_repositories": [
+        "nagavineerpasam/systems-to-ai-reading-map",
+        "nagavineerpasam/plumb",
+        "nagavineerpasam/code-time-machine",
+        "nagavineerpasam/netmeter"
+      ],
+      "preview": "anteprime/SITE-006-nagavineerpasam.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-006-nagavineerpasam.md",
+      "sources": [
+        "https://github.com/nagavineerpasam?tab=repositories",
+        "https://github.com/nagavineerpasam/systems-to-ai-reading-map",
+        "https://github.com/nagavineerpasam/plumb",
+        "https://github.com/nagavineerpasam/code-time-machine",
+        "https://github.com/nagavineerpasam/netmeter"
+      ],
+      "last_checked": "2026-11-18"
     }
   ]
 }
