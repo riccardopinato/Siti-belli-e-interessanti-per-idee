@@ -10,11 +10,11 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 |---|---|---|---|---|
 | [![Copertina illustrativa Awesome ecosyste.ms](anteprime/SITE-001-awesome-ecosystems.svg)](https://awesome.ecosyste.ms/) | **[Awesome Lists · ecosyste.ms](https://awesome.ecosyste.ms/)** | Open source · Ricerca e strumenti | Trova liste curate di librerie, tool e progetti OSS; possibili donor per App Factory | [SITE-001](schede/SITE-001-awesome-ecosystems.md) |
 | [![Copertina illustrativa HUMAN.md](anteprime/SITE-002-human-md.svg)](https://www.human-md.ai/) | **[HUMAN.md](https://www.human-md.ai/)** | Design · Storytelling · AI e creatività | Manifesto sul ruolo creativo umano nell'era AI, presentato con un'esperienza visiva immersiva | [SITE-002](schede/SITE-002-human-md.md) |
-
 | [![Illustrazione Mobbin](anteprime/SITE-003-mobbin.svg)](https://mobbin.com/discover/apps/ios/popular) | **[Mobbin · iOS Popular](https://mobbin.com/discover/apps/ios/popular)** | Design mobile · UX research | Esplora schermate e flussi di app reali per confrontare navigazione, onboarding e pattern UI | [SITE-003](schede/SITE-003-mobbin.md) |
 | [![Illustrazione Shuffle](anteprime/SITE-004-shuffle.svg)](https://shuffle.dev/) | **[Shuffle](https://shuffle.dev/)** | Editor visivo · UI web | Componi layout responsive e blocchi per landing, dashboard e Web Utility | [SITE-004](schede/SITE-004-shuffle.md) |
 | [![Illustrazione Uiverse](anteprime/SITE-005-uiverse.svg)](https://uiverse.io/) | **[Uiverse](https://uiverse.io/)** | Componenti · Micro-interazioni | Catalogo di elementi UI community-made per pulsanti, input, card, loader e motion | [SITE-005](schede/SITE-005-uiverse.md) |
 | [![Illustrazione profilo GitHub](anteprime/SITE-006-nagavineerpasam.svg)](https://github.com/nagavineerpasam?tab=repositories) | **[nagavineerpasam · GitHub](https://github.com/nagavineerpasam?tab=repositories)** | Profili GitHub · Progetti OSS | Progetti e riferimenti per AI locale, strumenti sviluppo e formazione tecnica | [SITE-006](schede/SITE-006-nagavineerpasam.md) |
+| [![Illustrazione Patch Discover](anteprime/SITE-007-patch-discover.svg)](https://patch.gg/discover) | **[Patch · Discover](https://patch.gg/discover)** | Game development · Asset e mod | Scopri giochi, mod e asset; valuta toolchain CLI/MCP e workflow agentici per prototipi interattivi | [SITE-007](schede/SITE-007-patch-discover.md) |
 
 **Nota sulle immagini:** le copertine SVG sono **illustrazioni originali create per l'indice**, non screenshot fedeli né asset prelevati dai siti. Le pagine originali sono raggiungibili cliccando sull'anteprima. In futuro si potranno aggiungere screenshot con fonte e diritti verificati.
 
@@ -31,7 +31,7 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 - [Categorie e regole di archiviazione](CATEGORIE.md): come classificare i prossimi link ed evitare duplicati.
 - [Schede dettagliate](schede/): note sintetiche e possibili applicazioni all'ecosistema.
 
-**Catalogo aggiornato:** 6 riferimenti archiviati al **18 novembre 2026** (2 iniziali + 4 nuovi). L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
+**Catalogo aggiornato:** 7 riferimenti archiviati al **18 novembre 2026** (2 iniziali + 4 + 1 nuovi). L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
 
 ## Collegamento con gli altri repository
 

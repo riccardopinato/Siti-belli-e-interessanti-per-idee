@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+<title id="title">Patch Discover — copertina illustrativa originale</title>
+<desc id="desc">Rappresentazione originale di una galleria di videogiochi, texture e modelli tridimensionali. Non è uno screenshot di patch.gg.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161b35"/><stop offset="1" stop-color="#322957"/></linearGradient><linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7d64c9"/><stop offset="1" stop-color="#433a83"/></linearGradient></defs>
+<rect width="960" height="480" rx="24" fill="url(#bg)"/>
+<text x="58" y="72" font-size="41" font-family="Arial,sans-serif" font-weight="bold" fill="#ffffff">DISCOVER</text><text x="59" y="108" font-size="20" font-family="Arial,sans-serif" fill="#ccd1ec">Giochi · Mod · Asset · Game development</text>
+<rect x="52" y="130" width="270" height="289" rx="20" fill="#232b51" stroke="#6873ad"/>
+<rect x="72" y="150" width="230" height="174" rx="13" fill="url(#tile)"/>
+<path d="M72 308l64-99 48 57 43-94 75 136" fill="#544eaa"/><path d="M72 308l71-65 47 29 44-53 68 89" fill="#ab7fc0"/><circle cx="251" cy="183" r="27" fill="#f3d68e"/>
+<text x="74" y="357" font-size="22" font-family="Arial,sans-serif" fill="white" font-weight="bold">Adventure</text><text x="74" y="390" font-size="16" font-family="Arial,sans-serif" fill="#b3bedc">Explore &amp; play</text>
+<rect x="345" y="130" width="270" height="289" rx="20" fill="#232b51" stroke="#6873ad"/>
+<rect x="365" y="150" width="230" height="174" rx="13" fill="#21465d"/>
+<path d="M387 288h189v15H387z" fill="#17343c"/><path d="M396 252l65-69 100 101-67 20z" fill="#51c9a9"/><path d="M461 183l65-12 53 83-18 30z" fill="#a0e5c8"/><circle cx="406" cy="192" r="21" fill="#f8df92"/>
+<text x="367" y="357" font-size="22" font-family="Arial,sans-serif" fill="white" font-weight="bold">Sandbox</text><text x="367" y="390" font-size="16" font-family="Arial,sans-serif" fill="#b3bedc">Build &amp; remix</text>
+<rect x="637" y="130" width="271" height="289" rx="20" fill="#232b51" stroke="#6873ad"/>
+<rect x="657" y="150" width="231" height="174" rx="13" fill="#593756"/>
+<path d="M680 275l47-62 67 15 72 45-41 31H696z" fill="#d78e6c"/><path d="M727 213l31-49 36 64-36 34z" fill="#ffe0a3"/><circle cx="828" cy="195" r="25" fill="#b88dff"/>
+<text x="660" y="357" font-size="22" font-family="Arial,sans-serif" fill="white" font-weight="bold">Game Assets</text><text x="660" y="390" font-size="16" font-family="Arial,sans-serif" fill="#b3bedc">3D · textures · audio</text>
+<text x="58" y="452" font-size="15" font-family="Arial,sans-serif" fill="#aeb7dd">Copertina originale · archivio App Factory · non screenshot</text>
+</svg>
