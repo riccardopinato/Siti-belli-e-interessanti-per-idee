@@ -15,13 +15,15 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 | [![Illustrazione Uiverse](anteprime/SITE-005-uiverse.svg)](https://uiverse.io/) | **[Uiverse](https://uiverse.io/)** | Componenti · Micro-interazioni | Catalogo di elementi UI community-made per pulsanti, input, card, loader e motion | [SITE-005](schede/SITE-005-uiverse.md) |
 | [![Illustrazione profilo GitHub](anteprime/SITE-006-nagavineerpasam.svg)](https://github.com/nagavineerpasam?tab=repositories) | **[nagavineerpasam · GitHub](https://github.com/nagavineerpasam?tab=repositories)** | Profili GitHub · Progetti OSS | Progetti e riferimenti per AI locale, strumenti sviluppo e formazione tecnica | [SITE-006](schede/SITE-006-nagavineerpasam.md) |
 | [![Illustrazione Patch Discover](anteprime/SITE-007-patch-discover.svg)](https://patch.gg/discover) | **[Patch · Discover](https://patch.gg/discover)** | Game development · Asset e mod | Scopri giochi, mod e asset; valuta toolchain CLI/MCP e workflow agentici per prototipi interattivi | [SITE-007](schede/SITE-007-patch-discover.md) |
-
 | [![Illustrazione AI Hero](anteprime/SITE-008-aihero.svg)](https://www.aihero.dev/) | **[AI Hero · Real AI Engineering](https://www.aihero.dev/)** | AI engineering · Workflow agentici | Skill modulari per idee, specifiche, ticket, sviluppo, code review e apprendimento | [SITE-008](schede/SITE-008-aihero.md) |
+
+| [![Illustrazione GitHub Projects Community](anteprime/SITE-009-github-projects-community.svg)](https://github.com/githubpr0jects) | **[GitHub Projects Community](https://github.com/githubpr0jects)** · [X](https://x.com/GithubProjects) · [Threads](https://www.threads.com/@githubprojects) | Curatori OSS · Community | Segnalazioni di repository e strumenti open source, con cataloghi e approfondimenti | [SITE-009](schede/SITE-009-github-projects-community.md) |
 
 **Nota sulle immagini:** le copertine SVG sono **illustrazioni originali create per l'indice**, non screenshot fedeli né asset prelevati dai siti. Le pagine originali sono raggiungibili cliccando sull'anteprima. In futuro si potranno aggiungere screenshot con fonte e diritti verificati.
 
 ## Come usare l'archivio
 
+- **Per seguire fonti su più canali:** una community con GitHub, X e Threads viene registrata in **una sola scheda**, collegando tutti i profili; i singoli repository interessanti si valutano a parte.
 - **Per cercare idee:** aprire una scheda e leggere il possibile impiego nelle app.
 - **Per il design:** i siti grafici possono suggerire candidati da analizzare in [Design-App](https://github.com/riccardopinato/Design-App). Le reference che l'utente ha selezionato e approvato in Design-App hanno priorità nelle proposte estetiche, secondo il Master corrente.
 - **Per codice e librerie:** studiare prima i singoli repository, le licenze, lo stato di manutenzione e i test. Non confondere un elenco di progetti con un donor verificato.
@@ -33,7 +35,7 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 - [Categorie e regole di archiviazione](CATEGORIE.md): come classificare i prossimi link ed evitare duplicati.
 - [Schede dettagliate](schede/): note sintetiche e possibili applicazioni all'ecosistema.
 
-**Catalogo aggiornato:** 8 riferimenti archiviati al **18 novembre 2026**. L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
+**Catalogo aggiornato:** 9 fonti archiviate al **18 novembre 2026** (con più profili social associati quando appartengono alla stessa fonte). L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
 
 ## Collegamento con gli altri repository
 

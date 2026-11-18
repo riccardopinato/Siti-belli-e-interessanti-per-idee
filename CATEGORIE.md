@@ -5,7 +5,8 @@ Questo repository consente **più categorie per sito**: una categoria principale
 | Categoria | Quando usarla |
 |---|---|
 | `open-source-discovery` | Directory OSS, cataloghi GitHub, raccolte di librerie, progetti e API |
-| `github-profiles` | Profilo GitHub di uno sviluppatore: fonte dinamica, non un singolo repository o licenza |
+| `github-profiles` | Profilo o organizzazione GitHub: fonte dinamica, non un singolo repository o licenza |
+| `open-source-curators` | Community e canali editoriali che selezionano, raccontano e promuovono progetti open source su più piattaforme |
 | `design-ui-ux` | Interfacce, interaction design, pattern, tipografia, identità visiva |
 | `ui-component-libraries` | Collezioni di componenti, snippet e micro-interazioni con esempi riusabili o adattabili |
 | `game-development` | Piattaforme per sviluppare, pubblicare, giocare o remixare videogiochi e mod |
@@ -38,6 +39,8 @@ Questo repository consente **più categorie per sito**: una categoria principale
 - **non-disponibile**: link non più raggiungibile, mantenuto per ragioni storiche.
 
 Quando il catalogo completo richiede autenticazione o non è interamente consultabile, indicare **archiviato-parziale** e precisare cosa è verificato.
+
+Gli account/community presenti su più canali (GitHub, X, Threads ecc.) ricevono **una sola scheda canonica**, salvo che siano entità distinte: i canali si conservano come `related_urls` con il livello di verifica. Prima di aggiungere un nuovo URL, controllare **sia `url` sia `related_urls`** per deduplicare correttamente.
 
 I profili GitHub devono restare schede aggregate con **snapshot datato dei repo rilevanti**, evitando di considerare ogni progetto un donor certificato. Ogni repository ha licenza e manutenzione proprie.
 
