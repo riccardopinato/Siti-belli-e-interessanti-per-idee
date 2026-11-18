@@ -19,6 +19,7 @@ Questo repository consente **più categorie per sito**: una categoria principale
 | `learning-resources` | Guide, documentazione, articoli formativi, corsi |
 | `research-data` | Dataset, statistiche, motori di ricerca e analisi |
 | `business-growth` | SEO, distribuzione, marketing, monetizzazione |
+| `unresolved-links` | Etichetta provvisoria per link abbreviati la cui destinazione non è stata verificata; non è una categoria tematica |
 | `other` | Nuova tipologia non ancora in tassonomia: descrivere il motivo |
 
 ## Come registrare un link futuro
@@ -30,6 +31,8 @@ Questo repository consente **più categorie per sito**: una categoria principale
 5. Creare o aggiornare una scheda in `schede/`, aggiungere la riga all'indice e aggiornare `catalogo/siti.json`.
 6. Le immagini nel repository devono essere originali oppure avere permessi/licenza compatibili. Se manca una verifica dei diritti, utilizzare **copertine originali** o un semplice link al sito esterno; non copiare screenshot/asset alla cieca.
 7. Aprire PR, verificare URL, JSON, file referenziati e differenze rispetto all'indice; registrare l'esito reale.
+
+**Link abbreviati e URL non risolti:** preservarli con `status: da-rivedere`, URL originale, `resolved_url: null`, metodo di verifica, senza attribuire un progetto, una licenza o una potenziale applicazione. Tenerli nella sezione **Collegamenti in attesa di identificazione** del README, distinta dai siti verificati. Una volta nota la destinazione, prima di riclassificare controllare duplicazioni sia fra URL canonici sia fra alias/related URLs.
 
 ## Stati del catalogo
 

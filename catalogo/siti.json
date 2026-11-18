@@ -419,6 +419,37 @@
         "https://www.opensourceprojects.dev/about"
       ],
       "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-010",
+      "name": "Collegamento t.co · destinazione da identificare",
+      "url": "https://t.co/tJBq3MOiLo",
+      "canonical_domain": "t.co",
+      "short_url": "https://t.co/tJBq3MOiLo",
+      "resolved_url": null,
+      "description": "Link abbreviato proveniente dall'ecosistema X/Twitter; la destinazione finale non è stata identificata con certezza.",
+      "primary_category": "unresolved-links",
+      "secondary_categories": [],
+      "tags": [
+        "shortlink",
+        "t-co",
+        "x",
+        "twitter",
+        "unresolved",
+        "pending-verification"
+      ],
+      "applications": [],
+      "utility": "Segnalibro conservato senza attribuire contenuto, licenze o possibili applicazioni prima di conoscere la destinazione.",
+      "status": "da-rivedere",
+      "verification_note": "Il 18/11/2026 l'apertura HTTP/HTTPS mediante browser di ricerca ha restituito cache miss/non accessibile; ricerca esatta del token senza risultati affidabili; la rete della sessione non ha consentito di seguire il redirect. Origine e target non verificati. Non dichiarare il sito finale.",
+      "resolution_method": "Richiedere l'URL completo effettivo copiandolo dalla barra indirizzi dopo aver aperto il link in un browser; poi confrontarlo con URL e related_urls già archiviati prima di riclassificare.",
+      "preview": "anteprime/SITE-010-shortlink-pending.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-010-shortlink-pending.md",
+      "sources": [
+        "https://t.co/tJBq3MOiLo"
+      ],
+      "last_checked": "2026-11-18"
     }
   ]
 }

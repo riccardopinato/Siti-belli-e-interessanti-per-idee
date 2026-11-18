@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">Link abbreviato da verificare — copertina originale</title>
+<desc id="description">Illustrazione originale di un collegamento con destinazione sconosciuta e un punto interrogativo. Non rappresenta il contenuto del link.</desc>
+<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172235"/><stop offset="1" stop-color="#293c58"/></linearGradient></defs>
+<rect x="0" y="0" width="960" height="480" rx="25" fill="url(#background)"/>
+<text x="57" y="82" fill="#f0f6ff" font-size="43" font-weight="bold" font-family="Arial,sans-serif">LINK DA IDENTIFICARE</text>
+<text x="60" y="124" fill="#adc2d8" font-size="21" font-family="Arial,sans-serif">URL abbreviato · destinazione non verificata</text>
+<rect x="53" y="169" width="851" height="218" rx="24" fill="#24394f" stroke="#5e7b98" stroke-width="2"/>
+<circle cx="183" cy="276" r="77" fill="#405e77"/>
+<path d="M150 259a35 35 0 0 1 68-12c0 23-27 28-27 45" fill="none" stroke="#dcecff" stroke-width="12" stroke-linecap="round"/>
+<circle cx="192" cy="318" r="7" fill="#dcecff"/>
+<text x="304" y="261" fill="#f8fafc" font-size="35" font-weight="bold" font-family="Arial,sans-serif">t.co/tJBq3MOiLo</text>
+<text x="306" y="313" fill="#b3c5dc" font-size="21" font-family="Arial,sans-serif">Da risolvere prima della catalogazione tematica</text>
+<text x="60" y="438" fill="#8ea6be" font-size="17" font-family="Arial,sans-serif">Copertina illustrativa originale · non screenshot del sito finale</text>
+</svg>
