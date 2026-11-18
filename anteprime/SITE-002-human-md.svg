@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="t d">
+<title id="t">Copertina illustrativa HUMAN.md</title>
+<desc id="d">Illustrazione originale di tipografia editoriale e forme geometriche vivaci che evocano un manifesto creativo. Non è uno screenshot del sito.</desc>
+<rect width="960" height="480" rx="24" fill="#232eaf"/>
+<rect x="22" y="22" width="916" height="436" rx="18" fill="#3249d3"/>
+<rect x="45" y="45" width="870" height="390" rx="12" fill="#fbd8d4"/>
+<circle cx="762" cy="231" r="125" fill="#f07348"/>
+<path d="M705 112h94v240h-94z" fill="#17255e" opacity=".85"/>
+<circle cx="753" cy="176" r="47" fill="#faf0d3"/>
+<path d="M697 307q59-88 120 0v58H697z" fill="#fff2cf"/>
+<path d="M707 315l97-34M710 340l105-37M720 365l99-35" stroke="#17255e" stroke-width="7" opacity=".8"/>
+<circle cx="868" cy="108" r="32" fill="#d5f044"/>
+<rect x="649" y="372" width="231" height="16" rx="8" fill="#17255e" opacity=".3"/>
+<text x="86" y="138" fill="#17255e" font-family="Arial,sans-serif" font-weight="900" font-size="65">HUMAN</text>
+<text x="86" y="213" fill="#17255e" font-family="Arial,sans-serif" font-weight="900" font-size="79">.md</text>
+<path d="M87 239h322" stroke="#17255e" stroke-width="5"/>
+<text x="89" y="285" fill="#17255e" font-family="Arial,sans-serif" font-size="22" font-weight="700">GUSTO · IDEE · SPERIMENTAZIONE</text>
+<text x="89" y="324" fill="#17255e" font-family="Arial,sans-serif" font-size="21">Creatività umana nell'era AI</text>
+<rect x="86" y="354" width="294" height="39" rx="19" fill="#17255e"/>
+<text x="233" y="380" fill="#ffefdf" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700">MANIFESTO VISIVO</text>
+</svg>
