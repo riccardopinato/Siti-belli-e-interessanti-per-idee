@@ -12,6 +12,7 @@ Questo repository consente **più categorie per sito**: una categoria principale
 | `game-asset-libraries` | Cataloghi di asset grafici, audio, 3D e risorse per la produzione di giochi |
 | `motion-storytelling` | Transizioni, animazioni, scrollytelling, narrazione visuale |
 | `ai-creativity` | Uso creativo, progettazione o riflessione sull'intelligenza artificiale |
+| `ai-engineering-workflows` | Skill, processi, formazione e strumenti per sviluppare e revisionare software con coding agent |
 | `development-tools` | Strumenti, framework, SDK, supporto allo sviluppo e automazione |
 | `product-inspiration` | Problemi, flussi, idee di prodotti o modelli di esperienza |
 | `learning-resources` | Guide, documentazione, articoli formativi, corsi |
