@@ -347,6 +347,83 @@
         "https://github.com/mattpocock/skills/blob/main/LICENSE"
       ],
       "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-009",
+      "name": "GitHub Projects Community · discovery open source",
+      "url": "https://github.com/githubpr0jects",
+      "canonical_domain": "github.com",
+      "related_urls": [
+        {
+          "platform": "GitHub",
+          "url": "https://github.com/githubpr0jects",
+          "verification": "verified"
+        },
+        {
+          "platform": "X",
+          "url": "https://x.com/GithubProjects",
+          "verification": "verified-profile-description"
+        },
+        {
+          "platform": "Threads",
+          "url": "https://www.threads.com/@githubprojects",
+          "verification": "cross-referenced-not-directly-readable"
+        },
+        {
+          "platform": "Editorial website",
+          "url": "https://www.opensourceprojects.dev/",
+          "verification": "verified-site; association inferred from X posts and independent references"
+        }
+      ],
+      "description": "Community indipendente che segnala e racconta repository, strumenti e progetti open source su GitHub, X e Threads, con approfondimenti editoriali.",
+      "primary_category": "open-source-curators",
+      "secondary_categories": [
+        "open-source-discovery",
+        "github-profiles",
+        "development-tools",
+        "learning-resources",
+        "product-inspiration"
+      ],
+      "tags": [
+        "open-source",
+        "github",
+        "curation",
+        "oss-discovery",
+        "developer-tools",
+        "repo-recommender",
+        "community",
+        "x",
+        "threads",
+        "software-ideas"
+      ],
+      "applications": [
+        "App Factory: scouting di progetti/donor",
+        "Idee-app-Archivi-riferimenti: ispirazione",
+        "Golden/Capability: candidate discovery",
+        "App Factory Agent: possibili tool OSS da auditare"
+      ],
+      "utility": "Fonte editoriale ricorrente per individuare progetti OSS, tool e concept. Ogni repo segnalato richiede verifica originale di licenza, maintainer, SHA, compatibilità e test.",
+      "status": "archiviato-parziale",
+      "verification_note": "GitHub org e 4 repository verificati; X si presenta come GitHub Projects Community 'UNOFFICIAL'; profilo Threads non accessibile direttamente nel browser, ma confermato da citazioni esterne. Non si certificano identità legale comune, attualità dei post social né licenze dei repo.",
+      "source_repositories": [
+        "githubpr0jects/open-source-projects",
+        "githubpr0jects/repo-recommender",
+        "githubpr0jects/repo-recomender",
+        "githubpr0jects/deals-for-devs"
+      ],
+      "license_note": "Non trovata LICENSE alla radice dei quattro repo durante la verifica; nessun codice autorizzato al riuso automatico. Verificare eventuali licenze per-file e repository originale citato dai post.",
+      "preview": "anteprime/SITE-009-github-projects-community.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-009-github-projects-community.md",
+      "sources": [
+        "https://github.com/githubpr0jects",
+        "https://x.com/GithubProjects",
+        "https://x.com/GithubProjects/with_replies",
+        "https://www.threads.com/@githubprojects",
+        "https://www.opensourceprojects.dev/",
+        "https://www.opensourceprojects.dev/about"
+      ],
+      "last_checked": "2026-11-18"
     }
   ]
 }

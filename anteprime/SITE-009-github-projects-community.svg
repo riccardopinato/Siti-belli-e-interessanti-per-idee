@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="t d">
+<title id="t">GitHub Projects Community — illustrazione originale</title>
+<desc id="d">Illustrazione originale di un feed di repository e tre canali, GitHub, X e Threads; non è uno screenshot delle piattaforme.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101828"/><stop offset="1" stop-color="#233451"/></linearGradient></defs>
+<rect width="960" height="480" rx="24" fill="url(#bg)"/>
+<text x="52" y="75" fill="#f2f6ff" font-family="Arial,sans-serif" font-size="39" font-weight="800">OPEN SOURCE DISCOVERY</text>
+<text x="54" y="108" fill="#a9bfd8" font-family="Arial,sans-serif" font-size="19">Una community · Tre canali · Migliaia di idee</text>
+<rect x="50" y="142" width="620" height="294" rx="19" fill="#1d2a40" stroke="#536e8a" stroke-width="2"/>
+<text x="73" y="182" fill="#e4eefb" font-family="Arial,sans-serif" font-size="21" font-weight="700">Progetti da esplorare</text>
+<g font-family="Arial,sans-serif">
+<rect x="72" y="206" width="574" height="59" rx="12" fill="#293c55"/><circle cx="103" cy="236" r="15" fill="#7cd7b4"/><text x="133" y="235" fill="#f1f7ff" font-size="18" font-weight="700">AI &amp; Developer Tools</text><text x="133" y="252" fill="#a5bcd6" font-size="13">Repository · librerie · esperimenti</text>
+<rect x="72" y="281" width="574" height="59" rx="12" fill="#293c55"/><circle cx="103" cy="311" r="15" fill="#d2acff"/><text x="133" y="310" fill="#f1f7ff" font-size="18" font-weight="700">Open-source Applications</text><text x="133" y="327" fill="#a5bcd6" font-size="13">Applicazioni · workflow · idee</text>
+<rect x="72" y="356" width="574" height="59" rx="12" fill="#293c55"/><circle cx="103" cy="385" r="15" fill="#ffcd92"/><text x="133" y="384" fill="#f1f7ff" font-size="18" font-weight="700">Repo Recommendations</text><text x="133" y="401" fill="#a5bcd6" font-size="13">Fonti · confronti · risorse</text>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle" font-size="23" font-weight="700">
+<rect x="695" y="142" width="212" height="79" rx="18" fill="#2c4162" stroke="#7fa7ca"/><text x="801" y="191" fill="#fff">GitHub</text>
+<rect x="695" y="247" width="212" height="79" rx="18" fill="#2c4162" stroke="#7fa7ca"/><text x="801" y="295" fill="#fff">X</text>
+<rect x="695" y="351" width="212" height="79" rx="18" fill="#2c4162" stroke="#7fa7ca"/><text x="801" y="400" fill="#fff">Threads</text>
+</g>
+<text x="54" y="458" fill="#91a5c3" font-family="Arial,sans-serif" font-size="14">Grafica originale dell'archivio App Factory · non uno screenshot</text>
+</svg>
