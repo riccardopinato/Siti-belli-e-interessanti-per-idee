@@ -441,15 +441,26 @@
       "applications": [],
       "utility": "Segnalibro conservato senza attribuire contenuto, licenze o possibili applicazioni prima di conoscere la destinazione.",
       "status": "da-rivedere",
-      "verification_note": "Il 18/11/2026 l'apertura HTTP/HTTPS mediante browser di ricerca ha restituito cache miss/non accessibile; ricerca esatta del token senza risultati affidabili; la rete della sessione non ha consentito di seguire il redirect. Origine e target non verificati. Non dichiarare il sito finale.",
+      "verification_note": "Il 18/11/2026 l'apertura HTTP/HTTPS mediante browser di ricerca ha restituito cache miss/non accessibile; ricerca esatta del token senza risultati affidabili; la rete della sessione non ha consentito di seguire il redirect. Origine e target non verificati. Non dichiarare il sito finale. Secondo controllo: anche il 18/11/2026 il redirect t.co non è stato recuperato; ricerca esatta del token senza risultati. Candidato Defuddle citato dall'utente, ma NON confermato come target.",
       "resolution_method": "Richiedere l'URL completo effettivo copiandolo dalla barra indirizzi dopo aver aperto il link in un browser; poi confrontarlo con URL e related_urls già archiviati prima di riclassificare.",
       "preview": "anteprime/SITE-010-shortlink-pending.svg",
       "preview_type": "illustrazione-originale-non-screenshot",
       "sheet": "schede/SITE-010-shortlink-pending.md",
       "sources": [
-        "https://t.co/tJBq3MOiLo"
+        "https://t.co/tJBq3MOiLo",
+        "https://github.com/kepano/defuddle",
+        "https://defuddle.md/"
       ],
-      "last_checked": "2026-11-18"
+      "last_checked": "2026-11-18",
+      "candidate_destination": "https://github.com/kepano/defuddle",
+      "candidate_website": "https://defuddle.md/",
+      "candidate_status": "ipotesi-segnalata-dall-utente-non-confermata-dal-redirect",
+      "candidate_verification": "Il repository kepano/defuddle e il sito ufficiale defuddle.md sono stati verificati direttamente. README: estrazione di contenuto HTML/Markdown da pagine Web, browser/Node/CLI. LICENSE MIT verificata; non è stata dimostrata la relazione con il link t.co.",
+      "candidate_app_factory_uses": [
+        "Raccolta di fonti web in Markdown",
+        "Preprocessing di documentazione per agenti AI",
+        "Riuso potenziale in Notes/archiviazione, previo audit"
+      ]
     }
   ]
 }
