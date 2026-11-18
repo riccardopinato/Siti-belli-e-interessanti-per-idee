@@ -22,7 +22,7 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 
 | Anteprima | URL originale | Stato | Scheda |
 |---|---|---|---|
-| [![Illustrazione link da identificare](anteprime/SITE-010-shortlink-pending.svg)](https://t.co/tJBq3MOiLo) | **[t.co/tJBq3MOiLo](https://t.co/tJBq3MOiLo)** | **Da rivedere** — destinazione del redirect non verificata, nessuna categoria tematica assegnata | [SITE-010](schede/SITE-010-shortlink-pending.md) |
+| [![Illustrazione link da identificare](anteprime/SITE-010-shortlink-pending.svg)](https://t.co/tJBq3MOiLo) | **[t.co/tJBq3MOiLo](https://t.co/tJBq3MOiLo)** | **Da rivedere** — possibile Defuddle ([GitHub](https://github.com/kepano/defuddle)), ma redirect non verificato | [SITE-010](schede/SITE-010-shortlink-pending.md) |
 
 Questa sezione preserva i link che non è stato possibile risolvere. **Non** costituisce una validazione del sito finale; quando la destinazione viene confermata, si aggiorna la scheda o si unisce a una voce esistente se duplicata.
 
