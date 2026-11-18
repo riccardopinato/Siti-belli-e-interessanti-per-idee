@@ -422,45 +422,65 @@
     },
     {
       "id": "SITE-010",
-      "name": "Collegamento t.co · destinazione da identificare",
-      "url": "https://t.co/tJBq3MOiLo",
-      "canonical_domain": "t.co",
+      "name": "Defuddle · Estrazione contenuti web",
+      "url": "https://github.com/kepano/defuddle",
+      "canonical_domain": "github.com",
       "short_url": "https://t.co/tJBq3MOiLo",
-      "resolved_url": null,
-      "description": "Link abbreviato proveniente dall'ecosistema X/Twitter; la destinazione finale non è stata identificata con certezza.",
-      "primary_category": "unresolved-links",
-      "secondary_categories": [],
-      "tags": [
-        "shortlink",
-        "t-co",
-        "x",
-        "twitter",
-        "unresolved",
-        "pending-verification"
+      "resolved_url": "https://github.com/kepano/defuddle",
+      "description": "Libreria TypeScript e CLI di Steph Ango che estrae contenuti principali e metadati dalle pagine web in HTML o Markdown, eliminando elementi non essenziali.",
+      "primary_category": "development-tools",
+      "secondary_categories": [
+        "open-source-discovery",
+        "research-data",
+        "learning-resources"
       ],
-      "applications": [],
-      "utility": "Segnalibro conservato senza attribuire contenuto, licenze o possibili applicazioni prima di conoscere la destinazione.",
-      "status": "da-rivedere",
-      "verification_note": "Il 18/11/2026 l'apertura HTTP/HTTPS mediante browser di ricerca ha restituito cache miss/non accessibile; ricerca esatta del token senza risultati affidabili; la rete della sessione non ha consentito di seguire il redirect. Origine e target non verificati. Non dichiarare il sito finale. Secondo controllo: anche il 18/11/2026 il redirect t.co non è stato recuperato; ricerca esatta del token senza risultati. Candidato Defuddle citato dall'utente, ma NON confermato come target.",
-      "resolution_method": "Richiedere l'URL completo effettivo copiandolo dalla barra indirizzi dopo aver aperto il link in un browser; poi confrontarlo con URL e related_urls già archiviati prima di riclassificare.",
-      "preview": "anteprime/SITE-010-shortlink-pending.svg",
+      "tags": [
+        "defuddle",
+        "typescript",
+        "markdown",
+        "html-parsing",
+        "web-content-extraction",
+        "reader-mode",
+        "cli",
+        "nodejs",
+        "obsidian-web-clipper",
+        "mit",
+        "metadata"
+      ],
+      "applications": [
+        "App Factory Agent: preprocessing e contenuti verificabili",
+        "App Factory: analisi di documentazione e risorse",
+        "Notes-Ecosistema: importazione da pagine (candidato)",
+        "World Days: studio di fonti editoriali (candidato)"
+      ],
+      "utility": "Candidato per estrazione mirata HTML/Markdown da pagine già accessibili, con preservazione di URL sorgente e metadata; serve audit su privacy, licenza, prompt injection e compatibilità prima del riuso.",
+      "status": "archiviato-verificato",
+      "verification_note": "Il 18/11/2026 l'utente ha confermato che t.co/tJBq3MOiLo conduce al progetto Defuddle; il redirect non è stato osservato direttamente dagli strumenti. Il repository kepano/defuddle, README, licenza MIT e sito ufficiale sono stati verificati direttamente su GitHub. Non installato né testato.",
+      "preview": "anteprime/SITE-010-defuddle.svg",
       "preview_type": "illustrazione-originale-non-screenshot",
-      "sheet": "schede/SITE-010-shortlink-pending.md",
+      "sheet": "schede/SITE-010-defuddle.md",
       "sources": [
-        "https://t.co/tJBq3MOiLo",
         "https://github.com/kepano/defuddle",
-        "https://defuddle.md/"
+        "https://defuddle.md/",
+        "https://t.co/tJBq3MOiLo",
+        "https://github.com/kepano/defuddle/blob/main/LICENSE"
       ],
       "last_checked": "2026-11-18",
-      "candidate_destination": "https://github.com/kepano/defuddle",
-      "candidate_website": "https://defuddle.md/",
-      "candidate_status": "ipotesi-segnalata-dall-utente-non-confermata-dal-redirect",
-      "candidate_verification": "Il repository kepano/defuddle e il sito ufficiale defuddle.md sono stati verificati direttamente. README: estrazione di contenuto HTML/Markdown da pagine Web, browser/Node/CLI. LICENSE MIT verificata; non è stata dimostrata la relazione con il link t.co.",
-      "candidate_app_factory_uses": [
-        "Raccolta di fonti web in Markdown",
-        "Preprocessing di documentazione per agenti AI",
-        "Riuso potenziale in Notes/archiviazione, previo audit"
-      ]
+      "related_urls": [
+        {
+          "platform": "t.co / X",
+          "url": "https://t.co/tJBq3MOiLo",
+          "verification": "destination-confirmed-by-user-2026-11-18"
+        },
+        {
+          "platform": "Sito ufficiale",
+          "url": "https://defuddle.md/",
+          "verification": "verified-official-repository-homepage"
+        }
+      ],
+      "license_note": "Repository kepano/defuddle MIT (LICENSE GitHub; copyright Steph Ango). Valutare condizioni dei contenuti delle pagine estratte separatamente.",
+      "source_repository": "https://github.com/kepano/defuddle",
+      "source_repository_commit": "3e8bde9f5f855bc968e95837a750c5968a9fe639"
     }
   ]
 }
