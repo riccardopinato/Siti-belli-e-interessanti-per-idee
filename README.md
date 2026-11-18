@@ -18,13 +18,7 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 | [![Illustrazione AI Hero](anteprime/SITE-008-aihero.svg)](https://www.aihero.dev/) | **[AI Hero · Real AI Engineering](https://www.aihero.dev/)** | AI engineering · Workflow agentici | Skill modulari per idee, specifiche, ticket, sviluppo, code review e apprendimento | [SITE-008](schede/SITE-008-aihero.md) |
 | [![Illustrazione GitHub Projects Community](anteprime/SITE-009-github-projects-community.svg)](https://github.com/githubpr0jects) | **[GitHub Projects Community](https://github.com/githubpr0jects)** · [X](https://x.com/GithubProjects) · [Threads](https://www.threads.com/@githubprojects) | Curatori OSS · Community | Segnalazioni di repository e strumenti open source, con cataloghi e approfondimenti | [SITE-009](schede/SITE-009-github-projects-community.md) |
 
-## Collegamenti in attesa di identificazione
-
-| Anteprima | URL originale | Stato | Scheda |
-|---|---|---|---|
-| [![Illustrazione link da identificare](anteprime/SITE-010-shortlink-pending.svg)](https://t.co/tJBq3MOiLo) | **[t.co/tJBq3MOiLo](https://t.co/tJBq3MOiLo)** | **Da rivedere** — possibile Defuddle ([GitHub](https://github.com/kepano/defuddle)), ma redirect non verificato | [SITE-010](schede/SITE-010-shortlink-pending.md) |
-
-Questa sezione preserva i link che non è stato possibile risolvere. **Non** costituisce una validazione del sito finale; quando la destinazione viene confermata, si aggiorna la scheda o si unisce a una voce esistente se duplicata.
+| [![Illustrazione Defuddle](anteprime/SITE-010-defuddle.svg)](https://github.com/kepano/defuddle) | **[Defuddle](https://github.com/kepano/defuddle)** · [sito](https://defuddle.md/) | Strumenti sviluppo · Parsing web | Estrae il contenuto centrale di pagine web in HTML/Markdown, utile per ricerca e pipeline di acquisizione documenti | [SITE-010](schede/SITE-010-defuddle.md) |
 
 **Nota sulle immagini:** le copertine SVG sono **illustrazioni originali create per l'indice**, non screenshot fedeli né asset prelevati dai siti. Le pagine originali sono raggiungibili cliccando sull'anteprima. In futuro si potranno aggiungere screenshot con fonte e diritti verificati.
 
@@ -42,7 +36,7 @@ Questa sezione preserva i link che non è stato possibile risolvere. **Non** cos
 - [Categorie e regole di archiviazione](CATEGORIE.md): come classificare i prossimi link ed evitare duplicati.
 - [Schede dettagliate](schede/): note sintetiche e possibili applicazioni all'ecosistema.
 
-**Catalogo aggiornato:** 9 fonti identificate e 1 collegamento abbreviato **in attesa di verifica**, al **18 novembre 2026**. Totale record: **10**. Non conteggiare i link irrisolti tra le fonti verificate. L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
+**Catalogo aggiornato:** **10 fonti identificate** al **18 novembre 2026**. Per SITE-010 il link abbreviato è stato confermato dall'utente; repo e licenza sono stati verificati separatamente, ma il reindirizzamento non è stato riprodotto dagli strumenti. L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
 
 ## Collegamento con gli altri repository
 
