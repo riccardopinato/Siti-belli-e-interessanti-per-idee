@@ -355,11 +355,6 @@
       "canonical_domain": "github.com",
       "related_urls": [
         {
-          "platform": "GitHub",
-          "url": "https://github.com/githubpr0jects",
-          "verification": "verified"
-        },
-        {
           "platform": "X",
           "url": "https://x.com/GithubProjects",
           "verification": "verified-profile-description"
