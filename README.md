@@ -16,8 +16,15 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 | [![Illustrazione profilo GitHub](anteprime/SITE-006-nagavineerpasam.svg)](https://github.com/nagavineerpasam?tab=repositories) | **[nagavineerpasam · GitHub](https://github.com/nagavineerpasam?tab=repositories)** | Profili GitHub · Progetti OSS | Progetti e riferimenti per AI locale, strumenti sviluppo e formazione tecnica | [SITE-006](schede/SITE-006-nagavineerpasam.md) |
 | [![Illustrazione Patch Discover](anteprime/SITE-007-patch-discover.svg)](https://patch.gg/discover) | **[Patch · Discover](https://patch.gg/discover)** | Game development · Asset e mod | Scopri giochi, mod e asset; valuta toolchain CLI/MCP e workflow agentici per prototipi interattivi | [SITE-007](schede/SITE-007-patch-discover.md) |
 | [![Illustrazione AI Hero](anteprime/SITE-008-aihero.svg)](https://www.aihero.dev/) | **[AI Hero · Real AI Engineering](https://www.aihero.dev/)** | AI engineering · Workflow agentici | Skill modulari per idee, specifiche, ticket, sviluppo, code review e apprendimento | [SITE-008](schede/SITE-008-aihero.md) |
-
 | [![Illustrazione GitHub Projects Community](anteprime/SITE-009-github-projects-community.svg)](https://github.com/githubpr0jects) | **[GitHub Projects Community](https://github.com/githubpr0jects)** · [X](https://x.com/GithubProjects) · [Threads](https://www.threads.com/@githubprojects) | Curatori OSS · Community | Segnalazioni di repository e strumenti open source, con cataloghi e approfondimenti | [SITE-009](schede/SITE-009-github-projects-community.md) |
+
+## Collegamenti in attesa di identificazione
+
+| Anteprima | URL originale | Stato | Scheda |
+|---|---|---|---|
+| [![Illustrazione link da identificare](anteprime/SITE-010-shortlink-pending.svg)](https://t.co/tJBq3MOiLo) | **[t.co/tJBq3MOiLo](https://t.co/tJBq3MOiLo)** | **Da rivedere** — destinazione del redirect non verificata, nessuna categoria tematica assegnata | [SITE-010](schede/SITE-010-shortlink-pending.md) |
+
+Questa sezione preserva i link che non è stato possibile risolvere. **Non** costituisce una validazione del sito finale; quando la destinazione viene confermata, si aggiorna la scheda o si unisce a una voce esistente se duplicata.
 
 **Nota sulle immagini:** le copertine SVG sono **illustrazioni originali create per l'indice**, non screenshot fedeli né asset prelevati dai siti. Le pagine originali sono raggiungibili cliccando sull'anteprima. In futuro si potranno aggiungere screenshot con fonte e diritti verificati.
 
@@ -35,7 +42,7 @@ Archivio **curato dall'utente** di siti Web che meritano di essere ritrovati: de
 - [Categorie e regole di archiviazione](CATEGORIE.md): come classificare i prossimi link ed evitare duplicati.
 - [Schede dettagliate](schede/): note sintetiche e possibili applicazioni all'ecosistema.
 
-**Catalogo aggiornato:** 9 fonti archiviate al **18 novembre 2026** (con più profili social associati quando appartengono alla stessa fonte). L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
+**Catalogo aggiornato:** 9 fonti identificate e 1 collegamento abbreviato **in attesa di verifica**, al **18 novembre 2026**. Totale record: **10**. Non conteggiare i link irrisolti tra le fonti verificate. L'inclusione nell'archivio indica interesse espresso dall'utente, non implementazione, certificazione o approvazione di un asset esterno.
 
 ## Collegamento con gli altri repository
 
