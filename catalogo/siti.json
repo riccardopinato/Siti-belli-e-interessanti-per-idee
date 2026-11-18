@@ -295,6 +295,58 @@
         "https://patch.gg/privacy"
       ],
       "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-008",
+      "name": "AI Hero · Real AI Engineering",
+      "url": "https://www.aihero.dev/",
+      "canonical_domain": "www.aihero.dev",
+      "description": "Portale di Matt Pocock su engineering con coding agent: skill modulari, idea-to-ship workflow, guide, video e corsi.",
+      "primary_category": "ai-engineering-workflows",
+      "secondary_categories": [
+        "development-tools",
+        "learning-resources",
+        "open-source-discovery",
+        "product-inspiration"
+      ],
+      "tags": [
+        "ai-engineering",
+        "coding-agents",
+        "software-factory",
+        "agent-skills",
+        "tdd",
+        "code-review",
+        "specs",
+        "architecture",
+        "mcp",
+        "codex",
+        "claude-code"
+      ],
+      "applications": [
+        "App Factory Core (audit di processi candidati)",
+        "App Factory Agent",
+        "AppLab (feedback loops e review)",
+        "Golden/Capability reconnaissance",
+        "Sviluppo di app con AI"
+      ],
+      "utility": "Analizzare skill e processi modulari in comparazione con le regole App Factory; riusare solo miglioramenti verificati e non duplicati.",
+      "status": "archiviato-verificato",
+      "verification_note": "Pagine ufficiali homepage, skills, posts e courses consultate il 18/11/2026. Homepage indicava 27 skill, pagina Skills 25: conteggio non coerente fra pagine. Repo ufficiale e LICENSE MIT verificati, senza eseguire skill.",
+      "license_note": "MIT verificata soltanto per il repository mattpocock/skills; non implica che corsi, video o altri materiali commerciali abbiano la stessa licenza.",
+      "source_repository": "https://github.com/mattpocock/skills",
+      "source_repository_commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "preview": "anteprime/SITE-008-aihero.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-008-aihero.md",
+      "sources": [
+        "https://www.aihero.dev/",
+        "https://www.aihero.dev/skills",
+        "https://www.aihero.dev/posts",
+        "https://www.aihero.dev/courses",
+        "https://github.com/mattpocock/skills",
+        "https://github.com/mattpocock/skills/blob/main/LICENSE"
+      ],
+      "last_checked": "2026-11-18"
     }
   ]
 }

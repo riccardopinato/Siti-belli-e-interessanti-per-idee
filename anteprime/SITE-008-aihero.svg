@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title description">
+<title id="title">AI Hero — copertina illustrativa originale</title>
+<desc id="description">Grafica originale con titolo AI ENGINEERING e sei fasi del flusso di sviluppo idea, spec, ticket, build, review, ship. Non è uno screenshot.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a101c"/><stop offset="1" stop-color="#18223c"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#74d9a8"/><stop offset="1" stop-color="#a5bef9"/></linearGradient></defs>
+<rect width="960" height="480" rx="24" fill="url(#bg)"/>
+<circle cx="892" cy="70" r="175" fill="#4d99bb" opacity=".08"/>
+<path d="M35 110H925M35 400H925" stroke="#293650" stroke-width="2"/>
+<rect x="50" y="46" width="144" height="40" rx="12" fill="#25413c"/><text x="122" y="73" font-size="20" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" fill="#a5ecc7">AI HERO</text>
+<text x="55" y="159" font-family="Arial,sans-serif" font-size="48" font-weight="800" fill="#f6f8ff">REAL AI</text><text x="55" y="213" font-family="Arial,sans-serif" font-size="48" font-weight="800" fill="url(#accent)">ENGINEERING</text>
+<text x="55" y="260" font-family="Arial,sans-serif" font-size="20" fill="#a6b3ca">Dall'idea al codice revisionato</text>
+<g font-family="Arial,sans-serif" font-weight="700" font-size="18" text-anchor="middle">
+<rect x="46" y="305" width="131" height="65" rx="16" fill="#273c48" stroke="#609b97"/><text x="112" y="345" fill="#c4efe3">IDEA</text>
+<rect x="193" y="305" width="131" height="65" rx="16" fill="#273c48" stroke="#609b97"/><text x="259" y="345" fill="#c4efe3">SPEC</text>
+<rect x="340" y="305" width="131" height="65" rx="16" fill="#273c48" stroke="#609b97"/><text x="406" y="345" fill="#c4efe3">TICKET</text>
+<rect x="487" y="305" width="131" height="65" rx="16" fill="#273c48" stroke="#609b97"/><text x="553" y="345" fill="#c4efe3">BUILD</text>
+<rect x="634" y="305" width="131" height="65" rx="16" fill="#273c48" stroke="#609b97"/><text x="700" y="345" fill="#c4efe3">REVIEW</text>
+<rect x="781" y="305" width="131" height="65" rx="16" fill="#3a4e8a" stroke="#8ca7ef"/><text x="847" y="345" fill="#ecf1ff">SHIP</text>
+</g>
+<path d="M177 338h16m131 0h16m131 0h16m131 0h16m131 0h16" stroke="#98baba" stroke-width="3" stroke-linecap="round"/>
+<text x="56" y="439" font-family="Arial,sans-serif" font-size="17" fill="#99a9bf">Skill · Workflow · Testing · Software factory</text>
+<text x="905" y="439" font-family="Arial,sans-serif" text-anchor="end" font-size="14" fill="#7f8da6">Original artwork, not a screenshot</text>
+</svg>
