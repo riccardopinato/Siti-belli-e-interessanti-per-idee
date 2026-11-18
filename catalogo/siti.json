@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-18",
+  "purpose": "Archivio di siti di ispirazione, non registro di implementazioni o licenze",
+  "items": [
+    {
+      "id": "SITE-001",
+      "name": "Awesome Lists · ecosyste.ms",
+      "url": "https://awesome.ecosyste.ms/",
+      "canonical_domain": "awesome.ecosyste.ms",
+      "description": "Indice consultabile di awesome lists OSS e progetti associati, con ricerca per argomenti e API.",
+      "primary_category": "open-source-discovery",
+      "secondary_categories": [
+        "development-tools",
+        "research-data",
+        "learning-resources"
+      ],
+      "tags": [
+        "awesome-lists",
+        "open-source",
+        "github",
+        "api",
+        "donor",
+        "flutter"
+      ],
+      "applications": [
+        "App Factory",
+        "AppLab",
+        "App Factory Agent",
+        "Flutter/Android",
+        "Idee/capability"
+      ],
+      "utility": "Scoprire raccolte tecniche e repository da valutare individualmente; non implica licenza o certificazione dei progetti.",
+      "status": "archiviato-verificato",
+      "preview": "anteprime/SITE-001-awesome-ecosystems.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-001-awesome-ecosystems.md",
+      "sources": [
+        "https://awesome.ecosyste.ms/",
+        "https://github.com/ecosyste-ms/awesome"
+      ],
+      "last_checked": "2026-11-18"
+    },
+    {
+      "id": "SITE-002",
+      "name": "HUMAN.md",
+      "url": "https://www.human-md.ai/",
+      "canonical_domain": "www.human-md.ai",
+      "description": "Manifesto di Briana (Mazzio) May su creatività umana e AI; sito con storytelling visivo e motion immersivo.",
+      "primary_category": "motion-storytelling",
+      "secondary_categories": [
+        "design-ui-ux",
+        "ai-creativity",
+        "product-inspiration"
+      ],
+      "tags": [
+        "design",
+        "motion",
+        "storytelling",
+        "ai",
+        "manifesto",
+        "typography",
+        "scrollytelling"
+      ],
+      "applications": [
+        "Design-App (reference candidata)",
+        "FrameLab",
+        "Wonderlog",
+        "Anna's Diary",
+        "Notes-Ecosistema"
+      ],
+      "utility": "Valutare storytelling e identità visuale senza copiare animazioni invasive o contenuti protetti.",
+      "status": "archiviato-verificato",
+      "verification_note": "Testo da pagina originale indicizzata; struttura visuale da recensione di terze parti; nessun test interattivo diretto.",
+      "preview": "anteprime/SITE-002-human-md.svg",
+      "preview_type": "illustrazione-originale-non-screenshot",
+      "sheet": "schede/SITE-002-human-md.md",
+      "sources": [
+        "https://www.human-md.ai/",
+        "https://www.landing.love/sites/human-md/",
+        "https://news.ycombinator.com/item?id=50537962"
+      ],
+      "last_checked": "2026-11-18"
+    }
+  ]
+}

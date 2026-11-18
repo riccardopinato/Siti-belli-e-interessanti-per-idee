@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="t d">
+<title id="t">Copertina illustrativa di Awesome Lists · ecosyste.ms</title>
+<desc id="d">Illustrazione originale: campo di ricerca, raccolte open source per Flutter, API, Design e AI. Non è uno screenshot del sito.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#13272c"/><stop offset="1" stop-color="#0c171c"/></linearGradient></defs>
+<rect width="960" height="480" rx="24" fill="url(#bg)"/>
+<circle cx="870" cy="60" r="160" fill="#47dfa5" opacity=".06"/>
+<rect x="45" y="45" width="870" height="390" rx="24" fill="#fcfffb"/>
+<rect x="45" y="45" width="870" height="66" rx="24" fill="#e7f5ed"/>
+<rect x="45" y="85" width="870" height="26" fill="#e7f5ed"/>
+<circle cx="77" cy="77" r="9" fill="#4dba92"/>
+<circle cx="103" cy="77" r="9" fill="#99dbc0"/>
+<circle cx="129" cy="77" r="9" fill="#cde9db"/>
+<text x="166" y="84" fill="#17382f" font-family="Arial,sans-serif" font-size="21" font-weight="700">Awesome Lists</text>
+<text x="792" y="84" fill="#287c5b" font-family="Arial,sans-serif" font-size="17">ecosyste.ms</text>
+<text x="95" y="170" font-family="Arial,sans-serif" fill="#14372b" font-size="35" font-weight="700">Scopri progetti open source</text>
+<rect x="95" y="197" width="760" height="55" rx="12" fill="#f2f7f3" stroke="#a6cbbb" stroke-width="2"/>
+<circle cx="128" cy="224" r="11" stroke="#327c60" fill="none" stroke-width="3"/><path d="M136 233l9 9" stroke="#327c60" stroke-width="3" stroke-linecap="round"/>
+<text x="161" y="231" font-family="Arial,sans-serif" font-size="19" fill="#648378">flutter, design, security, ai...</text>
+<g font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">
+<rect x="95" y="285" width="168" height="106" rx="16" fill="#d7f6e8"/><text x="179" y="332" fill="#116340">Flutter</text><text x="179" y="359" font-size="14" font-weight="400" fill="#39735b">app e librerie</text>
+<rect x="286" y="285" width="168" height="106" rx="16" fill="#edf5df"/><text x="370" y="332" fill="#536a29">Design</text><text x="370" y="359" font-size="14" font-weight="400" fill="#657947">UI e UX</text>
+<rect x="477" y="285" width="168" height="106" rx="16" fill="#dceffc"/><text x="561" y="332" fill="#2f6689">API</text><text x="561" y="359" font-size="14" font-weight="400" fill="#4c7997">dati e tool</text>
+<rect x="668" y="285" width="187" height="106" rx="16" fill="#ebdefe"/><text x="761" y="332" fill="#7052a1">AI e agenti</text><text x="761" y="359" font-size="14" font-weight="400" fill="#876cb0">automazione</text>
+</g>
+</svg>
